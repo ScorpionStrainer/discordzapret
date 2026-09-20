@@ -1,0 +1,3 @@
+# Never leave this file empty
+domain.example.abc
+# ScorpionStrainer/discordzapret 59306779cd2f
